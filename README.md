@@ -1,5 +1,5 @@
 
-Destiny 2 Announcer by kaydol (c) 2019
+### Destiny 2 Announcer by kaydol (c) 2019
 
 This program is capable of recognizing three events:
 1. A high-value target is nearby
